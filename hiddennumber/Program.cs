@@ -51,11 +51,11 @@ namespace NombreCache
                 // test de l'essai par rapport à la valeur à chercher
                 if (essai > valeur)
                 {
-                    Console.WriteLine(" --> trop grand !");
+                    Console.WriteLine(" --> c'est trop grand !");
                 }
                 else
                 {
-                    Console.WriteLine(" --> trop petit !");
+                    Console.WriteLine(" --> c'est trop petit !");
                 }
                 // saisie d'un nouvel essai
                 correct = false;
